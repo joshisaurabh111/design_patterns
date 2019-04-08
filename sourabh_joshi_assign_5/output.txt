@@ -1,0 +1,44 @@
+
+
+ /************ Paragraphs ***************/
+1 : Sourabh joshi.
+2 :  this is my input.
+3 :  asd
+4 :  awesome. this is truely awesome.
+
+
+/************** Sentences *****************/
+1 : Sourabh joshi
+2 :  this is my input
+3 :  asd
+4 :  awesome
+5 :  this is truely awesome
+
+
+ /************ Words ***************/
+1 : 
+2 :  Sourabh
+3 :  joshi
+4 :  this
+5 :  is
+6 :  my
+7 :  input
+8 :  asd
+9 :  awesome
+10 :  this
+11 :  is
+12 :  truely
+13 :  awesome
+
+
+ /************ Word Frequency ***************/
+ : 1
+input : 1
+awesome : 2
+asd : 1
+truely : 1
+joshi : 1
+this : 2
+is : 2
+Sourabh : 1
+my : 1
